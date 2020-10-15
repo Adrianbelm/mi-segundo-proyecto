@@ -7,5 +7,5 @@ _Esto es un parrafo que describe el proyecto_
 _Blablabla_
 
 ```
-git clone https://github.com/Adrianbelm/mi-segundo-proyecto
+git clone https://github.com/Adrianbelm/mi-segundo-proyecto.git
 ```
